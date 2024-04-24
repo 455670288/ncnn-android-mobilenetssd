@@ -1,3 +1,4 @@
+##参照ncnn的 https://github.com/xiang-wuu/ncnn-android-yolov7 安卓demo进行修改，部署mobilenetssd目标检测模型##
 
 This is a sample ncnn android project, it depends on ncnn library and opencv
 
@@ -31,5 +32,7 @@ https://github.com/nihui/opencv-mobile
 
 
 ## reference
+https://github.com/Tencent/ncnn/tree/master/examples
 https://github.com/nihui/ncnn-android-mobilenetssd
 https://github.com/Tencent/ncnn/blob/master/examples/mobilenetssd.cpp
+https://github.com/xiang-wuu/ncnn-android-yolov7
